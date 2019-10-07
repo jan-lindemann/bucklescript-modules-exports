@@ -1,0 +1,12 @@
+{
+  "name": "module-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "bsb"
+  },
+  "dependencies": {
+    "bs-platform": "5.2.0"
+  }
+}
